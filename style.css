@@ -1,0 +1,13 @@
+body {
+    background-color: lightskyblue;
+}
+
+.container {
+    background-color: rgb(255, 255, 255);
+    max-width: 600px;
+    border-radius: 15px;
+    box-shadow: rgb(6, 67, 147)
+                     0px 5px 15px;
+    margin: 50px auto;
+    padding: 5px 30px;
+}
